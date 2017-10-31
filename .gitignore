@@ -2,4 +2,5 @@
 .idea
 /05-express-first-app/node_modules
 /06-handlebars/node_modules
+/07-get-post/node_modules
 /node_modules
