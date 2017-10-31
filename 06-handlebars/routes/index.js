@@ -4,7 +4,7 @@ var router = express.Router();
 /* GET home page. */
 router.get('/', function(req, res, next) {
     res.render('index', {
-        title: { title: 'Express', info: 'Framework of Node.js' },
+        title: { title: 'Express', info: 'Framework Node.js' },
         condition: true,
         anyArray: [1, 2, 3]
     });
